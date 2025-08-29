@@ -1,0 +1,9 @@
+{
+  "dependencies": ["."],
+  "graphs": {
+    "agent": {
+      "path": "agent.py:app",
+      "description": "Text-to-SQL agent for Chinook music database"
+    }
+  }
+}
