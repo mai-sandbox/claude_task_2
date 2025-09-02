@@ -1,0 +1,6 @@
+langgraph
+langchain
+langchain-openai
+sqlite3-api
+aiosqlite
+python-dotenv
